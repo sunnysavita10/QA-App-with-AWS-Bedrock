@@ -1,0 +1,1 @@
+RAG APPLICATION using AWS Bedrock
